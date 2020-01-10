@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "921114162802",
+    "firebase_url": "https://eprodapp.firebaseio.com",
+    "project_id": "eprodapp",
+    "storage_bucket": "eprodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921114162802:android:77d89cd0f0e123c68cf4eb",
+        "android_client_info": {
+          "package_name": "com.bluetech.eprodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921114162802-m9tgo3gsnit35ef75neb7118ip5usrke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluetech.eprodapp",
+            "certificate_hash": "65cf87e58cd9c533ded7366f8e4657f784ceb31a"
+          }
+        },
+        {
+          "client_id": "921114162802-s1kpqdr6a2olr8makpi10r2mfki968ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY-NEwwt6yYloPmt21honAqe65V9fHC74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921114162802-s1kpqdr6a2olr8makpi10r2mfki968ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "921114162802-se5n389n7hhi50bd3isna4te561foe27.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bluetech.eprodapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
